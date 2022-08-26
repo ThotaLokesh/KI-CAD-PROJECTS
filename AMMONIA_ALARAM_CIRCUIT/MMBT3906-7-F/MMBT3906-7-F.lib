@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# MMBT3906-7-F
+#
+DEF MMBT3906-7-F U 0 40 Y Y 1 L N
+F0 "U" -198 275 50 H V L BNN
+F1 "MMBT3906-7-F" -149 -565 50 H V L BNN
+F2 "SOT103P240X110-3N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "DIODES INC." 0 0 50 H I L BNN "SUPPLIER"
+F5 "1773629" 0 0 50 H I L BNN "OC_FARNELL"
+F6 "MMBT3906-7-F" 0 0 50 H I L BNN "MPN"
+F7 "51R6815" 0 0 50 H I L BNN "OC_NEWARK"
+F8 "SOT-23-3" 0 0 50 H I L BNN "PACKAGE"
+DRAW
+S -500 -400 500 200 0 0 16 f
+X B 1 -700 0 200 R 40 40 0 0 I 
+X E 2 -700 -200 200 R 40 40 0 0 P 
+X C 3 700 0 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
